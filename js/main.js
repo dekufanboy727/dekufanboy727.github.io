@@ -10,7 +10,7 @@
 		},
 		{
 			"id": "projectServ",
-			"url": "https://github.com/AlexYapp74024/TME-2413-Project"
+			"url": "https://github.com/dekufanboy727/TME-2413-Project"
 		},
 		{
 			"id": "projectSedkodes",
