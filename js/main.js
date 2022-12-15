@@ -10,15 +10,15 @@
 		},
 		{
 			"id": "projectCloudixia",
-			"url": "https://ajtima.com"
+			"url": "https://pnwx.000webhostapp.com/Tme2014-G03Chillax"
 		},
 		{
 			"id": "projectServ",
-			"url": "https://www.getserv.io"
+			"url": "https://github.com/AlexYapp74024/TME-2413-Project"
 		},
 		{
 			"id": "projectSedkodes",
-			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
+			"url": "https://github.com/C-YunSin2000/Java-Project-Health-Diary"
 		}
 	]
 
