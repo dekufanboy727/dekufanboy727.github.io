@@ -5,10 +5,6 @@
 
 	var projectsArray = [
 		{
-			"id": "projectTykOperator",
-			"url": "https://github.com/TykTechnologies/tyk-operator"
-		},
-		{
 			"id": "projectCloudixia",
 			"url": "https://pnwx.000webhostapp.com/Tme2014-G03Chillax"
 		},
