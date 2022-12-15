@@ -8,14 +8,6 @@
 			"id": "projectCloudixia",
 			"url": "https://pnwx.000webhostapp.com/Tme2014-G03Chillax"
 		},
-		{
-			"id": "projectServ",
-			"url": "https://github.com/dekufanboy727/TME-2413-Project"
-		},
-		{
-			"id": "projectSedkodes",
-			"url": "https://github.com/C-YunSin2000/Java-Project-Health-Diary"
-		}
 	]
 
 	projectsArray.forEach(element => {
